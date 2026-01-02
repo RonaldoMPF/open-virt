@@ -1,2 +1,2 @@
 # open-virt
-Guides and Tools for Open Source Virtualization.
+Documentation, Guides and Tools for Open Source Virtualization.
